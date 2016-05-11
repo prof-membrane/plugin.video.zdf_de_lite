@@ -9,7 +9,7 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
-        <summary lang="en">ZDF Beta</summary>
-        <description lang="en">ZDF Beta</description>
+        <summary lang="en">Watch videos on demand from the ZDF Mediathek.</summary>
+        <description lang="en">Watch videos on demand from the ZDF Mediathek.</description>
     </extension>
 </addon>
